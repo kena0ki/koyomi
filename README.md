@@ -1,2 +1,2 @@
 # koyomi
-Source code for the web Koyomi
+Source code for the web site Koyomi
